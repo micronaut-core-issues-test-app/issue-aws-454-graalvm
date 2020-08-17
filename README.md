@@ -1,10 +1,3 @@
-## Feature aws-lambda-custom-runtime documentation
+# Test app
 
-- [Micronaut Custom AWS Lambda runtime documentation](https://micronaut-projects.github.io/micronaut-aws/latest/guide/index.html#lambdaCustomRuntimes)
-
-- [https://docs.aws.amazon.com/lambda/latest/dg/runtimes-custom.html](https://docs.aws.amazon.com/lambda/latest/dg/runtimes-custom.html)
-
-## Feature aws-lambda documentation
-
-- [Micronaut AWS Lambda Function documentation](https://micronaut-projects.github.io/micronaut-aws/latest/guide/index.html#lambda)
-
+This is a test application for issue https://github.com/micronaut-projects/micronaut-aws/issues/454
